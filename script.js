@@ -5,7 +5,7 @@ var lines = [
   "First year trying their very best",
   "DOG ON ZOOM",
   "Technical Difficulties",
-  "Advisor asks their student a question",
+  "Advisor asks their own student a question",
   "Awkward silence",
   "Baby photo",
   "I have no idea what I'm doing",
@@ -47,7 +47,8 @@ var lines = [
   "You want to take a poop",
   "No show",
   "You regret doing a PhD",
-  "",
+  "Science that involves luck",
+  ""
   // "3+ Players idle in spawn",
   // "Offensive name",
   // "Meme name",
