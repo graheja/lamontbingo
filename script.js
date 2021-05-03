@@ -1,13 +1,13 @@
 var lines = [
   // Credits to ster, gamingmedley, darkness3560, JettTheMedic, and many other redditors
-  "Darcy on Miriam's Lap",
-  "Dog content",
-  "Backcap",
-  "One of the teams is not playing the game",
-  "You cannot understand a player (language or voice)",
-  "Actual balanced and fun game",
-  "Point gets capped or pushed with 5+ speed",
-  "Strange item gets upgraded",
+
+  "1",
+  "1",
+  "1",
+  "1",
+  "1",
+  "1",
+  "1",
   "You get a taunt kill",
   "You got auto balanced",
   "Taunt after kill",
