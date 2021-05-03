@@ -43,7 +43,7 @@ var lines = [
   "Any mention of the moon",
   " 'I hope to run a model' ",
   "Any mention of Biden",
-  "'A celebrity' gets on the zoom",
+  "A 'celebrity' gets on the zoom",
   "You want to take a poop",
   "No show",
   "You regret doing a PhD",
