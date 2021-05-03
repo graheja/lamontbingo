@@ -8,7 +8,7 @@ var lines = [
   "Advisor asks their own student a question",
   "Awkward silence",
   "Baby photo",
-  "I have no idea what I'm doing",
+  "You have no idea what you're doing",
   "Laughing on camera",
   "Laughing on camera, unmuted",
   "Collectively losing our mind at Arnold Gordon",
